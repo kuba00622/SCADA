@@ -1,11 +1,3 @@
-###############################################################################################
-# Title: LoggingModule.py
-# Author: Tomasz Zawiszowski, Bartosz Kądziela
-# Date: 12.10.2022
-# Code version: v1.0.1
-# Availability:\\plkra-fil01\ChassisLab\Pliki pomocnicze\Oprogramowanie\2. Python\4. Skrypty\7.Moduły uniwersalne\1. LoggingModule
-###############################################################################################
-
 import logging 
 
 __version__ = '1.0.1'
